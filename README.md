@@ -43,8 +43,8 @@ Você precisará do **Python 3** e da biblioteca **Pyxel** instalados.
    ```bash
    pip install pyxel
    
-2.Certifique-se de ter os seguintes arquivos de imagem na mesma pasta do código:mapa.png (Cenário de fundo)blastoise.png, venusaur.png, charizard.png (Sprites das torres)rattata.png, raticate.png, articuno.png, mew.png (Sprites dos inimigos)
+2. Certifique-se de ter os seguintes arquivos de imagem na mesma pasta do código:mapa.png (Cenário de fundo)blastoise.png, venusaur.png, charizard.png (Sprites das torres)rattata.png, raticate.png, articuno.png, mew.png (Sprites dos inimigos)
 
-3. Rode o script principal:Bashpython nome_do_seu_arquivo.py
+3. Rode o script principal:jogo.py
 
 📁 Estrutura das Torres e InimigosUnidadeTipo / ComportamentoCustoDano / AtributoBlastoiseTorre Inicial (Disparo Triplo em Leque)$\$60$Dano: 2 | Alcance: 60VenusaurTorre Intermediária (Disparo Duplo)$\$90$Dano: 3 | Alcance: 85CharizardTorre Avançada (Disparo Único Pesado)$\$120$Dano: 4 | Alcance: 110InimigosRattata, Raticate, Articuno e Mew-HP e Velocidade escalam por tipo
