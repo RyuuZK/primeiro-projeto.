@@ -47,4 +47,3 @@ Você precisará do **Python 3** e da biblioteca **Pyxel** instalados.
 
 3. Rode o script principal:jogo.py
 
-## 📁 Estrutura das Torres e InimigosUnidadeTipo / ComportamentoCustoDano / AtributoBlastoiseTorre Inicial (Disparo Triplo em Leque)$\$60$Dano: 2 | Alcance: 60VenusaurTorre Intermediária (Disparo Duplo)$\$90$Dano: 3 | Alcance: 85CharizardTorre Avançada (Disparo Único Pesado)$\$120$Dano: 4 | Alcance: 110InimigosRattata, Raticate, Articuno e Mew-HP e Velocidade escalam por tipo
